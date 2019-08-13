@@ -31,7 +31,7 @@
 	<modules>
 		<Aumento_PriceHide>
 			<active>true</active>
-			<codePool>local</codePool>
+			<codePool>community</codePool>
 	 	</Aumento_PriceHide>
 	</modules>
 </config>
